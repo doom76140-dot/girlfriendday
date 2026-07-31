@@ -3,7 +3,7 @@ import { SiteConfig } from '../types';
 
 export const initialSiteConfig: SiteConfig = {
   girlfriendName: 'My Beautiful Vandu(Chipkali)',
-  boyfriendName: 'Your Loving Deepak',
+  boyfriendName: 'Apka Balak Deepak',
   
   // Hardcoded credentials for Login Page (/login)
   // Easy to customize anytime!
@@ -126,13 +126,13 @@ export const initialSiteConfig: SiteConfig = {
 
   // Final Surprise Page (/surprise)
   finalSurprise: {
-  heading: "I Love You So Much ❤️",
+  heading: "I Love You So Much Meri Chipkali❤️",
 
   subheading:
-    "Tu sirf meri girlfriend nahi, meri duniya, meri khushi aur meri sabse pyari dost hai. 💖",
+    "Tu sirf meri girlfriend nahi , meri duniya, meri khushi aur meri sabse pyari dost hai. 💖",
 
   loveLetter:
-    "Meri Jaan,\n\nHappy Girlfriend's Day! ❤️\n\nMain shayad har baar apni feelings words me perfectly express nahi kar pata, lekin itna zaroor jaanta hoon ki meri life ka sabse beautiful decision tumse pyaar karna tha. 🥹❤️\n\nTeri ek smile mera poora din bana deti hai, tera ek message meri saari tension khatam kar deta hai, aur tera saath meri zindagi ki sabse badi blessing hai.\n\nThank you har chhoti-badi baat me mera saath dene ke liye, meri bakwaas sunne ke liye, mujhe samajhne ke liye aur bina kisi reason ke bhi mujhe itna pyaar karne ke liye.\n\nMain promise karta hoon ki har situation me, har khushi aur har mushkil me tera haath kabhi nahi chhodunga. Bas hamesha meri life me isi tarah rehna, kyunki meri duniya tumse hi shuru hoti hai aur tum par hi khatam hoti hai. ❤️\n\nI Love You Infinity × Infinity. ♾️💕",
+    "Meri Jaan,\n\nHappy Girlfriend's Day!  ❤️\n\nMain shayad har baar apni feelings words me perfectly express nahi kar pata, lekin itna zaroor jaanta hoon ki meri life ka sabse beautiful decision tumse pyaar karna tha. 🥹❤️\n\nTeri ek smile mera poora din bana deti hai, tera ek message meri saari tension khatam kar deta hai, aur tera saath meri zindagi ki sabse badi blessing hai.\n\nThank you har chhoti-badi baat me mera saath dene ke liye, meri bakwaas sunne ke liye, mujhe samajhne ke liye aur bina kisi reason ke bhi mujhe itna pyaar karne ke liye.\n\nMain promise karta hoon ki har situation me, har khushi aur har mushkil me tera haath kabhi nahi chhodunga. ❤️\n\nI Love You Infinity × Infinity. ♾️💕",
 
   closing: "Hamesha Sirf Tumhara... ❤️🥺",
 },
