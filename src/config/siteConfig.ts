@@ -137,5 +137,5 @@ export const initialSiteConfig: SiteConfig = {
   closing: "Hamesha Sirf Tumhara... ❤️🥺",
 },
 
-  audioTrackUrl: 'https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=romantic-piano-112199.mp3',
+  audioTrackUrl: '/music/song.mp3',
 };
