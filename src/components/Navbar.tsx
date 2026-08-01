@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link as RouterLink, useLocation as useRouteLocation } from 'react-router-dom';
-import { Heart, Sparkles, Settings, Lock, LogOut } from 'lucide-react';
+import { Heart, Sparkles, Lock, LogOut } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { CustomizeDrawer } from './CustomizeDrawer';
 
@@ -63,7 +63,6 @@ export const Navbar: React.FC = () => {
               className="p-1.5 text-slate-500 hover:text-rose-600 hover:bg-rose-50 rounded-full transition-colors"
               title="Customize Content & Login Credentials"
             >
-              <Settings className="w-4 h-4" />
             </button>
 
             {isAuthenticated ? (
