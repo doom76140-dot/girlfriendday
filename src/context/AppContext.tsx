@@ -18,8 +18,8 @@ interface AppContextType {
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
 
-const CONFIG_STORAGE_KEY = 'gf_day_site_config_v1';
-const AUTH_STORAGE_KEY = 'gf_day_auth_v1';
+const CONFIG_STORAGE_KEY = 'gf_day_site_config_v2';
+const AUTH_STORAGE_KEY = 'gf_day_auth_v2';
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [config, setConfig] = useState<SiteConfig>(() => {
